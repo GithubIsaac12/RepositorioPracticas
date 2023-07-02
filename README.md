@@ -1,2 +1,2 @@
 # RepositorioPracticas
-Repossitorio para subir las practicas
+Ejercicios de la practica 4
